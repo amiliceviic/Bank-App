@@ -13,8 +13,6 @@
 <img src="https://img.shields.io/github/languages/top/amiliceviic/Bank-App?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/amiliceviic/Bank-App?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with the tools and technologies:</em>
-
 
 </div>
 <br>
