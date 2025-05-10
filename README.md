@@ -26,7 +26,6 @@
     - [Installation](#-installation)
     - [Usage](#-usage)
     - [Testing](#-testing)
-- [Acknowledgment](#-acknowledgment)
 
 ---
 
