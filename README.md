@@ -115,10 +115,6 @@ mvn test
 
 ---
 
-## ✨ Acknowledgments
-
-- Credit `contributors`, `inspiration`, `references`, etc.
-
 <div align="left"><a href="#top">⬆ Return</a></div>
 
 ---
