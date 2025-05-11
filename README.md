@@ -101,17 +101,6 @@ mvn exec:java
 
 Bank-app uses the {__test_framework__} test framework. Run the test suite with:
 
-**Using [maven](https://maven.apache.org/):**
-
-```sh
-mvn test
-```
-**Using [maven](https://maven.apache.org/):**
-
-```sh
-mvn test
-```
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
