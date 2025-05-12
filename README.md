@@ -96,7 +96,6 @@ mvn exec:java
 ```sh
 mvn exec:java
 ```
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
