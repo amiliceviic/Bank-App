@@ -3,7 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-
 # BANK-APP
 
 <em>Empowering your financial journey with seamless banking.</em>
